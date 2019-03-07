@@ -32,18 +32,19 @@ social_media:
   facebook: taylor.denouden
   # dribbble: your_username
   linkedin: taylor-denouden
+  medium: taylordenouden
   stackoverflow: 2977944
   # twitter: your_username
   # youtube: your_username
-  medium: taylordenouden
 
 topics:
-  - name: Computer Vision
-    #web_url: https://github.com/topics/css
+  - name: Deep Style Transfer
+    web_url: https://github.com/topics/style-transfer
     #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Data Visualization
-
+  - name: Generative Adversarial Networks
+    web_url: https://github.com/topics/gan
+    
   - name: Natural Language Processing
-    #web_url: https://github.com/topics/sass
-    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    web_url: https://github.com/topics/nlp
+    #image_url: https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing.jpg
