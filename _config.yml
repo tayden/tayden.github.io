@@ -25,7 +25,7 @@ projects:
   exclude:
     forks: false
     projects:
-    # - repo-name
+     - tayden.github.io
 
 social_media:
   # behance: your_username
