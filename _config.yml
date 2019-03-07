@@ -32,17 +32,17 @@ social_media:
   facebook: taylor.denouden
   # dribbble: your_username
   linkedin: taylor-denouden
-  stackoverflow: tayden
+  stackoverflow: 2977944
   # twitter: your_username
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Computer Vision
+    #web_url: https://github.com/topics/css
+    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Data Visualization
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Natural Language Processing
+    #web_url: https://github.com/topics/sass
+    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
