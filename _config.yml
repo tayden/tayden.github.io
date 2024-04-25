@@ -17,9 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
-  sort_by options:
-    - stars
+  sort_by: starts
   limit: 9
   exclude:
     archived: true
@@ -32,7 +30,7 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: taytaybanaynayy
   # keybase: your_username
   linkedin: tayden
   # mastodon: your_username
